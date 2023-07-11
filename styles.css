@@ -1,1 +1,28 @@
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.search-container {
+  margin-bottom: 20px;
+}
+
+#search-input {
+  width: 200px;
+  padding: 5px;
+}
+
+#search-button {
+  padding: 5px 10px;
+}
+
+#weather-container {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
 
