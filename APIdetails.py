@@ -1,6 +1,6 @@
 import requests
 
-api_key = 'YOUR_API_KEY'
+api_key = 'YOURAPI_KEY'
 city = 'London'
 
 # Make a GET request to retrieve the current weather data for a city
